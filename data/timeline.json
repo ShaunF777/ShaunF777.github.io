@@ -1,17 +1,53 @@
 {
   "2004": {
     "company": "Matrix Warehouse",
-    "achievement": "Built PCs, installed networks, and supported customers.",
+    "achievement": "Built PCs, installed networks and provided hands-on customer support.",
     "photo": "timeline/Responsibility2004.jpg"
   },
   "2005": {
     "company": "Tactical Software Solutions",
-    "achievement": "Deployed enterprise networks and managed OS migrations for Dept. of Justice Mpumalanga.",
+    "achievement": "Deployed enterprise wired networks and supported server & PC migrations.",
     "photo": "timeline/Responsibility2005.jpg"
   },
   "2006": {
     "company": "IFS",
-    "achievement": "Handled IT support, stock management, and truck electrical installations.",
+    "achievement": "Supported IT, managed stock and assisted with truck electrical installations.",
     "photo": "timeline/Responsibility2006.jpg"
+  },
+  "2007": {
+    "company": "IFS",
+    "achievement": "Field and workshop support on fuel, oil and automated grease systems.",
+    "photo": "timeline/Responsibility2007.jpg"
+  },
+  "2008": {
+    "company": "IFS",
+    "achievement": "Skilled field service technician; trained and certified in AutoCAD and lubrication systems.",
+    "photo": "timeline/Responsibility2008.jpg"
+  },
+  "2009": {
+    "company": "IFS",
+    "achievement": "Standby technician; developed first drill Highwall protection system and trained teams.",
+    "photo": "timeline/Responsibility2009.jpg"
+  },
+  "2010": {
+    "company": "IFS",
+    "achievement": "Senior field technician; OEM installer; integrated PLCs and authored service manuals.",
+    "photo": "timeline/Responsibility2010.jpg"
+  },
+  "2011": {
+    "company": "IFS",
+    "achievement": "Commissioned offshore service vehicles; advised sales and trained workshop staff on PLCs.",
+    "photo": "timeline/Responsibility2011.jpg"
+  },
+  "2012": {
+    "company": "IFS",
+    "achievement": "Integrated Murphy touch controllers; advanced field automation and system integrations.",
+    "photo": "timeline/Responsibility2012.jpg"
+  },
+  "2013": {
+    "company": "IFS",
+    "achievement": "Led engineering for service truck design and manufacturing across a multidisciplinary team.",
+    "photo": "timeline/Responsibility2013.jpg"
   }
 }
+

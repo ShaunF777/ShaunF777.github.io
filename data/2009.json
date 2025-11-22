@@ -1,0 +1,22 @@
+{
+  "year": "2009",
+  "company": "IFS",
+  "responsibilities": [
+    "Field service and standby callout technician for fuel, oil and automated grease systems",
+    "Service truck technician installing advanced control & instrumentation systems",
+    "Trained semi-skilled personnel on control & instrumentation systems",
+    "Developed first Highwall protection system for drills",
+    "Prepared technical line drawings for service truck hydraulics, pneumatics and instrumentation wiring"
+  ],
+  "structural_design": [],
+  "hydraulics_drive": [
+    "Designed and documented hydraulic and pneumatic line schematics for service vehicles"
+  ],
+  "automation_integration": [
+    "Installed and configured control and instrumentation on trucks and drill systems"
+  ],
+  "photos": [
+    "years/2009/Responsibility2009_1.jpg",
+    "years/2009/HighwallPrototype.jpg"
+  ]
+}
