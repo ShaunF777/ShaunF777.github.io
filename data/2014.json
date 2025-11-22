@@ -1,0 +1,25 @@
+{
+  "year": "2014",
+  "company": "IFS",
+  "responsibilities": [
+    "Perform client needs analysys, scope of work & budget planning, for new truck builds",
+    "Managed a cross-functional team including 2x draftsmen, 10x fitters, 5x welders and 2x procurement"
+  ],
+  "structural_design": [
+    "Designed and built my very first service truck called 'VOLT' in SolidWorks",
+    "Worked with client engineers to build the first 6Ton sevice truck for coal processing plants",
+    "Began center of gravity calculations in SolidWorks for all trucks; worked with client engineers to mitigate overload risk",
+    "Further improved design for lateral beams on service truck tank-assemblies"
+  ],
+  "hydraulics_drive": ["Design and implemented our own design for hydraulic driven Evo2 screw compressors resulting in 30% cost reduction"
+  ],
+  "automation_integration": ["Integrate first 7inch Lumier touch HMI for highwall protection on drills",
+    "Lumier touch interfaces replaced the control interface I developed in 2009, significantly improving downtime & faultfinding"
+  ],
+  "photos": [
+    "rs2014_1.jpg",
+    "st2014_1.jpg",
+    "hy2014_1.jpg",
+    "au2014_1.jpg"
+  ]
+}

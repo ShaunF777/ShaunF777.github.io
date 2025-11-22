@@ -2,17 +2,19 @@
   "year": "2011",
   "company": "IFS",
   "responsibilities": [
-    "Handover and commissioning for all offshore-delivered service vehicles",
-    "Senior field service technician for lubrication and drill systems",
+    "Handover, commissioning & training for all offshore-delivered service vehicles",
     "Advised sales on technical scope for quotations and job planning",
-    "Mentored workshop technicians on PLC automation integration"
+    "Senior field service technician for lubrication and drill systems"
   ],
   "structural_design": [],
   "hydraulics_drive": [],
   "automation_integration": [
-    "Completed Rockwell Automation Fundamentals of PLC training"
+    "Completed Rockwell Automation Fundamentals of PLC training",
+    "Mentored workshop technicians on PLC automation integration"
   ],
   "photos": [
-    "years/2011/Responsibility2011_1.jpg"
+    "rs2011_1.jpg",
+    "hy2011_1.jpg",
+    "au2011_1.jpg"
   ]
 }

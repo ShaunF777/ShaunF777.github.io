@@ -2,21 +2,23 @@
   "year": "2009",
   "company": "IFS",
   "responsibilities": [
-    "Field service and standby callout technician for fuel, oil and automated grease systems",
-    "Service truck technician installing advanced control & instrumentation systems",
+    "Designed and documented hydraulic and pneumatic line schematics for service vehicles",
+    "All service truck electrical installations of control & instrumentation systems",
     "Trained semi-skilled personnel on control & instrumentation systems",
-    "Developed first Highwall protection system for drills",
-    "Prepared technical line drawings for service truck hydraulics, pneumatics and instrumentation wiring"
+    "Field service and standby callout technician for fuel, oil and automated grease systems"
   ],
   "structural_design": [],
   "hydraulics_drive": [
-    "Designed and documented hydraulic and pneumatic line schematics for service vehicles"
+    "Prepared technical line drawings for service truck hydraulics, pneumatics and instrumentation wiring"
   ],
   "automation_integration": [
-    "Installed and configured control and instrumentation on trucks and drill systems"
+    "Integrated and commissioned first Allen-Bradley PLC controller for service truck hydraulic & tank level control",
+    "Developed first Highwall protection control module for drills",
+    "Installed and configured all control and instrumentation on trucks and drill highwall systems"
   ],
   "photos": [
-    "years/2009/Responsibility2009_1.jpg",
-    "years/2009/HighwallPrototype.jpg"
+    "rs2009_1.jpg",
+    "hy2009_1.jpg",
+    "au2009_1.jpg"
   ]
 }

@@ -1,0 +1,29 @@
+{
+  "year": "2018",
+  "company": "IFS",
+  "responsibilities": [
+    "Roll‑over threshold calculator introduced by engineering firm; integrated into Tankkraft design philosophy",
+    "",
+    "Managed a cross-functional team including 2x draftsmen, 7x fitters, 3x welders and 2x procurement"
+  ],
+  "structural_design": [
+    "Modular tank sections split from pump compartment enabled hot‑dip galvanising",
+    "Adoption of SANS 1431 355WA structural steel for all load‑bearing welded assemblies",
+    "Began center of gravity calculations in SolidWorks for all trucks; worked with client engineers to mitigate overload risk",
+    "implemented Huck lock‑bolting system for modular assembly after galvanising, to Further improved design for service truck tank sections"
+  ],
+  "hydraulics_drive": [
+    "Implement first Direct‑drive screw compressor (50 L/min @ 190 bar) & Direct‑drive HP washer (pressure intensifier principle)",
+    "Implement first Pressure‑compensated flow control piston pump + custom load‑sensing valve arrangment on service trucks",
+    "Load sensing hydraulics allowed simultanious operation of the screw compressor and hp washers"
+  ],
+  "automation_integration": ["Integrate first IFM CR2050/51/52 CANbus controllers for Service truck control and automation",
+    "Lumier touch interfaces replaced the control interface I developed in 2009, significantly improving downtime & faultfinding"
+  ],
+  "photos": [
+    "rs2018_1.jpg",
+    "st2018_1.jpg",
+    "hy2018_1.jpg",
+    "au2018_1.jpg"
+  ]
+}

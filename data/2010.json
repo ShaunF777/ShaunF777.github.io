@@ -3,20 +3,21 @@
   "company": "IFS",
   "responsibilities": [
     "Senior field service technician for lubrication and drill highwall protection systems",
-    "OEM installer for CAT, Hitachi and Atlas-Copco machines",
-    "Integrated and commissioned first Allen-Bradley PLC controller for service truck controls",
-    "Authored technical service manuals including operator training, drawings and critical parts lists",
-    "Delivered operator training, testing and certification for trucks and systems"
+    "OEM fuel and lube system installer for CAT, Hitachi and Atlas-Copco machines",
+    "Delivered operator training, testing and certification for trucks and drill highwall systems"
   ],
   "structural_design": [],
   "hydraulics_drive": [
-    "Commissioned complex drive and lubrication circuits on OEM installations"
+    "Installed & commissioned complex drive and lubrication circuits on OEM installations"
   ],
   "automation_integration": [
-    "Integrated Allen-Bradley PLCs and performed system commissioning and validation"
+    "Further develop Allen-Bradley PLC control logic for service truck hydraulic safeguards",
+    "AB Micrologix PLCs and Powerview touch interfaces reduced cabinet wiring and switchgear by 30%",
+    "Authored technical service manuals including operator training, drawings and critical parts lists"
   ],
   "photos": [
-    "years/2010/Responsibility2010_1.jpg",
-    "years/2010/PLC_Integration.jpg"
+    "rs2010_1.jpg",
+    "hy2010_1.jpg",
+    "au2010_1.jpg"
   ]
 }

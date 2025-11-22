@@ -8,13 +8,15 @@
   "structural_design": [
     
   ],
-  "hydraulics_drive": [],
+  "hydraulics_drive": ["Install & commission first load sensing variable displacement hydraulic systems for water bowsers"],
   "automation_integration": [
-    "Integrated Murphy touch screen controllers for service trucks and bowsers",
+    "Integrated first Murphy touch screen CANbus controllers for service trucks, water bowsers & diesel bowsers",
+    "Murphy touch screens enhanced control of water canons on bowsers",
     "Recieve training on state machine programming and AngelScript (C++) for Murphy systems"
   ],
   "photos": [
-    "years/2012/Responsibility2012_1.jpg",
-    "years/2012/Structural2012.jpg"
+    "rs2012_1.jpg",
+    "hy2012_1.jpg",
+    "au2012_1.jpg"
   ]
 }

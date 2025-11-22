@@ -3,17 +3,20 @@
   "company": "IFS",
   "responsibilities": [
     "Took over engineering responsibilities for service truck and workshop equipment design",
-    "Managed a cross-functional team including draftsmen, fitters, welders and procurement",
-    "Performed supplier sourcing, client interactions and project planning using Excel schedules",
-    "Delivered informal SolidWorks training for sheet-metal and assemblies"
+    "Completed SolidWorks training for sheet-metal, parts and assemblies",
+    "Managed a cross-functional team including 2x draftsmen, 10x fitters, 5x welders and 2x procurement",
+    "Performed supplier sourcing, client interactions and project planning using Excel schedules"
   ],
   "structural_design": [
-    "futher developed modular bolt‑on hang‑down compartments between wheels",
+    "Further developed modular bolt‑on enclosed pump compartments for service trucks and bowsers",
     "Led design and manufacturing of service truck structures and load-bearing assemblies"
   ],
-  "hydraulics_drive": [],
-  "automation_integration": [],
+  "hydraulics_drive": ["Create speed calculators for sprocket sizing per hydraulic motor CC & Kw"],
+  "automation_integration": ["The Lumier brand was created for all Automation & control gear on trucks and drills"],
   "photos": [
-    "years/2013/Responsibility2013_1.jpg"
+    "rs2013_1.jpg",
+    "st2013_1.jpg",
+    "hy2013_1.jpg",
+    "au2013_1.jpg"
   ]
 }
