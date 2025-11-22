@@ -1,0 +1,19 @@
+{
+  "year": "2012",
+  "company": "IFS",
+  "responsibilities": [
+    "Integrated Murphy touch screen controllers for service trucks and bowsers",
+    "Senior field service technician on lubrication and drill protection systems"
+  ],
+  "structural_design": [
+    "Developed first modular bolt‑on hang‑down compartments between wheels"
+  ],
+  "hydraulics_drive": [],
+  "automation_integration": [
+    "Informal training on state machine programming and AngelScript (C++) for Murphy systems"
+  ],
+  "photos": [
+    "years/2012/Responsibility2012_1.jpg",
+    "years/2012/Structural2012.jpg"
+  ]
+}

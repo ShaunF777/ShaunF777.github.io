@@ -29,14 +29,15 @@ ShaunF777.github.io/
 │   └── year.js               # Logic for year detail pages
 │
 ├── data/
-│   ├── responsibilities.json
-│   ├── structural_design.json
-│   ├── hydraulics_drive.json
-│   └── automation_systems.json
+│   ├── timeline.json         # highligths for index.html
+│   ├── 2004.json             # full details per year
+│   ├── 2005.json
+|   ├── 2006.json  
+│   └── ... etc ...
 │
 └── images/
-    ├── hero/                 # Timeline images
-    └── years/                # Year-specific galleries
+    ├── timeline/                 # Timeline images
+    └── years/2004                # Year-specific galleries
 
 ```
 

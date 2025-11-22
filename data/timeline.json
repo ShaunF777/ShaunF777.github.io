@@ -1,0 +1,17 @@
+{
+  "2004": {
+    "company": "Matrix Warehouse",
+    "achievement": "Built PCs, installed networks, and supported customers.",
+    "photo": "timeline/Responsibility2004.jpg"
+  },
+  "2005": {
+    "company": "Tactical Software Solutions",
+    "achievement": "Deployed enterprise networks and managed OS migrations for Dept. of Justice Mpumalanga.",
+    "photo": "timeline/Responsibility2005.jpg"
+  },
+  "2006": {
+    "company": "IFS",
+    "achievement": "Handled IT support, stock management, and truck electrical installations.",
+    "photo": "timeline/Responsibility2006.jpg"
+  }
+}
