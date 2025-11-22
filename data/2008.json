@@ -2,20 +2,21 @@
   "year": "2008",
   "company": "IFS",
   "responsibilities": [
-    "Handed over office IT and signwriting duties",
+    "Completed AutoCAD 2D/3D drafting and Lincoln Lubrication Systems training",
     "Skilled field service technician for fuel, oil, automated grease and basic control systems",
     "Skilled service truck workshop technician for hydraulics, pneumatics and electrical wiring",
-    "Completed AutoCAD 2D/3D drafting and Lincoln Lubrication Systems training"
+    "Handed over office IT and signwriting duties"
   ],
   "structural_design": [],
   "hydraulics_drive": [
     "Installed and maintained lubrication and control instrumentation on field vehicles"
   ],
   "automation_integration": [
-    "Basic control and instrumentation system work on field installations"
+    "Basic to moderate control and instrumentation systems on field installations & trucks"
   ],
   "photos": [
-    "years/2008/Responsibility2008_1.jpg",
-    "years/2008/Training_AutoCAD.jpg"
+    "rs2008_1.jpg",
+    "hy2008_1.jpg",
+    "au2008_1.jpg"
   ]
 }

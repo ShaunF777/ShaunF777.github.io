@@ -1,15 +1,16 @@
 {
   "year": "2005",
-  "company": "Tactical Software Solutions",
+  "company": "Matrix Warehouse / Tactical Software Solutions",
   "responsibilities": [
-    "Deployed and maintained enterprise wired networks",
-    "Managed local server and PC support",
-    "Assisted with OS migrations and software upgrades"
+    "Site manager for IT upgrade projects at the Department of Justice",
+    "Installed and maintained enterprise wired networks for the province of Mpumalanga",
+    "Including: Db boards, server cabinets, switches, routers, firewalls, printers, local servers and new Pc's",
+    "Managed & deployed OS migrations and software upgrades for Servers and desktops (Microsoft)"
   ],
   "structural_design": [],
   "hydraulics_drive": [],
   "automation_integration": [],
   "photos": [
-    "years/2005/Responsibility2005_1.jpg"
+    "rs2005_1.jpg"
   ]
 }

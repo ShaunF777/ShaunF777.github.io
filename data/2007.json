@@ -2,17 +2,22 @@
   "year": "2007",
   "company": "IFS",
   "responsibilities": [
-    "Office IT & network support",
     "Signwriting for company vehicles using CorelDraw",
+    "Office & workshop IT & network support",
     "Field service assistant – installed and maintained fuel, oil and automated grease systems",
-    "Workshop assistant – basic hydraulics, pneumatics and electrical wiring on trucks"
+    "Workshop assistant – basic hydraulics, pneumatics and electrical wiring on trucks",
+    "Stand-by Weekends and call-outs for breakdowns"
   ],
   "structural_design": [],
   "hydraulics_drive": [
-    "Performed hands-on hydraulic and pneumatic wiring on service trucks"
+    "Performed hands-on installations of hydraulics and pneumatics on service trucks"
   ],
-  "automation_integration": [],
+  "automation_integration": [
+    "Assisted with installations of truck lighting and 24V switchgear"
+  ],
   "photos": [
-    "years/2007/Responsibility2007_1.jpg"
+    "rs2007_1.jpg",
+    "hy2007_1.jpg",
+    "au2007_1.jpg"
   ]
 }

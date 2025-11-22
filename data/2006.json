@@ -3,17 +3,16 @@
   "company": "Industrial Fluid Solutions / Tactical Software Solutions",
   "responsibilities": [
     "IT & network technician supporting office infrastructure",
-    "Storeman – stock keeping, collections and deliveries",
-    "Workshop assistant – truck maintenance and 24VDC switchgear installations"
+    "Storeman – stock keeping, driving delivery vehicle for weekly collections and deliveries",
+    "General workshop assistant and cleaner"
   ],
   "structural_design": [],
-  "hydraulics_drive": [
-    "Assisted with installations of truck lighting and 24V switchgear"
+  "hydraulics_drive": [],
+  "automation_integration": ["Assisted with installations of truck lighting and 24V switchgear"
   ],
-  "automation_integration": [],
   "photos": [
-    "years/2006/Responsibility2006_1.jpg",
-    "years/2006/Responsibility2006_2.jpg"
+    "rs2006_1.jpg",
+    "au2006_1.jpg"
   ]
 }
 

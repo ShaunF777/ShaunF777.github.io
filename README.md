@@ -36,11 +36,22 @@ ShaunF777.github.io/
 |   ├── 2006.json  
 │   └── ... etc ...
 │
-└── images/
-    ├── timeline/             # Timeline images
-    └── years/2004            # Year-specific galleries
+└── images/                       # Timeline images
+    ├── rs2004.jpg                # Timeline images
+    ├── Structural_Design2013     # Timeline images
+    └── ... etc ...
 
 ```
+## Recommended filename scheme (concise and consistent)
+Use short prefixes for category + year + optional index:
+
+ - rs2004.jpg — Responsibilities (timeline image for year 2004)
+
+ - stYYYY_1.jpg — Structural design image 1 for YYYY
+
+ - hyYYYY_2.jpg — Hydraulics / Drive Systems image 2 for YYYY
+
+ - auYYYY_3.jpg — Automation Systems Integration image 3 for YYYY
 
 ## 🎯 Features
 - Interactive timeline with clickable years
