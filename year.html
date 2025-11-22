@@ -1,6 +1,51 @@
-<div id="responsibilities"></div>
-<div id="structural"></div>
-<div id="hydraulics"></div>
-<div id="automation"></div>
-<div id="photos"></div>
-<script src="js/year.js"></script>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Year details</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <a class="back" href="index.html">&larr; Timeline</a>
+    <h1 id="page-title">Year</h1>
+  </header>
+
+  <main>
+    <section id="meta" class="meta"></section>
+
+    <nav class="year-nav" aria-hidden="false">
+      <button id="printBtn">Print</button>
+    </nav>
+
+    <section id="gallery" class="gallery" aria-label="Photo gallery"></section>
+
+    <section class="details-grid">
+      <article id="responsibilities" aria-labelledby="responsibilities-title">
+        <h2 id="responsibilities-title">Responsibilities</h2>
+      </article>
+
+      <article id="structural" aria-labelledby="structural-title">
+        <h2 id="structural-title">Structural Design</h2>
+      </article>
+
+      <article id="hydraulics" aria-labelledby="hydraulics-title">
+        <h2 id="hydraulics-title">Hydraulics & Drive Systems</h2>
+      </article>
+
+      <article id="automation" aria-labelledby="automation-title">
+        <h2 id="automation-title">Automation Systems Integration</h2>
+      </article>
+    </section>
+
+    <p id="no-data" class="muted"></p>
+  </main>
+
+  <footer class="site-footer">
+    <a href="index.html">Back to timeline</a>
+  </footer>
+
+  <script src="js/year.js" defer></script>
+</body>
+</html>

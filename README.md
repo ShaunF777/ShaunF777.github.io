@@ -3,10 +3,11 @@
 This repository hosts my personal portfolio site at [https://shaunf777.github.io](https://shaunf777.github.io).
 
 ## 📂 Structure
-- `index.html` → Main landing page with chronological hero section
-- `year.html` → Template for detailed year pages
-- `css/` → Stylesheets
-- `js/` → JavaScript for interactions and animations
+- `index.html` → Main landing page with chronological hero section (loads `data/timeline.json`)
+- `year.html` → Template for detailed year pages (loads `data/{YEAR}.json`)
+- `css/style.css` → Site styles (dark theme)
+- `js/main.js` → JavaScript timeline rendering and navigation
+- `js/year.js` → JavaScript year page data loader and renderer
 - `data/` → JSON files mapping achievements (2004–2025)
 - `images/` → Pictures for timeline and detail pages
 
@@ -30,18 +31,16 @@ ShaunF777.github.io/
 │
 ├── data/
 │   ├── timeline.json         # highligths for index.html
-│   ├── 2004.json             # full details per year
+│   ├── 2004.json             # full details per year and reference to photos
 │   ├── 2005.json
 |   ├── 2006.json  
 │   └── ... etc ...
 │
 └── images/
-    ├── timeline/                 # Timeline images
-    └── years/2004                # Year-specific galleries
+    ├── timeline/             # Timeline images
+    └── years/2004            # Year-specific galleries
 
 ```
-
-
 
 ## 🎯 Features
 - Interactive timeline with clickable years
@@ -50,8 +49,9 @@ ShaunF777.github.io/
   2. Structural Design
   3. Hydraulics & Drive Systems
   4. Automation Systems Integration
-- JSON-driven data for easy updates
-- Pure HTML/CSS/JS (no Jekyll templates)
 
 ## 🚀 Deployment
-This site is automatically deployed via GitHub Pages.
+- A `.nojekyll` file is included to prevent Jekyll processing.
+- Keep image filenames consistent with the JSON entries.
+- All code is vanilla JS (ES6). No build tools required.
+- This site is automatically deployed via GitHub Pages.
