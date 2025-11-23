@@ -1,0 +1,25 @@
+{
+  "year": "2016",
+  "company": "IFS",
+  "responsibilities": [
+    "Qualified as a mechanical fitter and led fabrication workstreams",
+    "Designed and delivered the first bunded oil service skid 'Pitbull' (7 products + Atlas Copco XAS97)",
+    "Engineered speed‑controlled 600 L/min diesel transfer units using a hydraulic 2‑stage centrifugal pump",
+    "Implemented proportional swashplate drive control tied to real‑time flow and pressure feedback from driven fluids"
+  ],
+  "structural_design": [
+    "Designed compact skid layouts that met bunding and service access requirements"
+  ],
+  "hydraulics_drive": [
+    "Developed variable‑speed diesel transfer units with load‑sensing hydraulic drive and proportional control"
+  ],
+  "automation_integration": [
+    "Integrated flow and pressure measurement into hydraulic speed control loops for precise dosing"
+  ],
+  "photos": [
+    "rs2016_1.jpg",
+    "st2016_1.jpg",
+    "hy2016_1.jpg",
+    "au2016_1.jpg"
+  ]
+}

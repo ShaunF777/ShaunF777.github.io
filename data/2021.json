@@ -1,0 +1,24 @@
+{
+  "year": "2021",
+  "company": "Tankkraft (IFS)",
+  "responsibilities": [
+    "Scaled production of modular service truck platforms for multiple clients",
+    "Introduced updated C of G checks into the design review process",
+    "Led supplier negotiations to reduce lead times on bespoke hydraulic components"
+  ],
+  "structural_design": [
+    "Implemented standardised jigs and welding fixtures to improve repeatability and QA"
+  ],
+  "hydraulics_drive": [
+    "Delivered robust hydraulic packages suited for simultaneous tool operation with minimal derating"
+  ],
+  "automation_integration": [
+    "Deployed diagnostic CANbus snapshots for remote troubleshooting and faster field support"
+  ],
+  "photos": [
+    "rs2021_1.jpg",
+    "st2021_1.jpg",
+    "hy2021_1.jpg",
+    "au2021_1.jpg"
+  ]
+}

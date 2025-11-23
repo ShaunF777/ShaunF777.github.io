@@ -1,0 +1,22 @@
+{
+  "year": "2017",
+  "company": "IFS",
+  "responsibilities": [
+    "Completed IFM EcoMat programming and commissioning training",
+    "Led retrofit upgrades of highwall protection systems to IFM EcoMat controllers",
+    "Coordinated production upgrades to standardise Lumier highwall systems across platforms"
+  ],
+  "structural_design": [],
+  "hydraulics_drive": [
+    "Supported integration changes required by controller upgrades (sensor mounts, cabling routing)"
+  ],
+  "automation_integration": [
+    "Drill highwall protection: Integrate & Commission IFM EcoMat controllers; enabled preshift testing and improved reliability",
+    "Drill highwall protection: Expanded sensor suite with two additional lasers increasing drill safety performance"
+  ],
+  "photos": [
+    "rs2017_1.jpg",
+    "hy2017_1.jpg",
+    "au2017_1.jpg"
+  ]
+}

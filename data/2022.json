@@ -1,0 +1,23 @@
+{
+  "year": "2022",
+  "company": "Tankkraft (IFS)",
+  "responsibilities": [
+    "Refined modular tanks and pump compartments for large‑volume builds",
+    "Led client acceptance testing and delivered hands‑on operator training for new fleets"
+  ],
+  "structural_design": [
+    "Adopted SANS 1431 355WA steel for load‑bearing assemblies and updated structural checks"
+  ],
+  "hydraulics_drive": [
+    "Commissioned advanced load‑sensing systems with priority flow allocation for critical tools"
+  ],
+  "automation_integration": [
+    "Integrated IFM CR series controllers for improved field diagnostics and automated safety interlocks"
+  ],
+  "photos": [
+    "rs2022_1.jpg",
+    "st2022_1.jpg",
+    "hy2022_1.jpg",
+    "au2022_1.jpg"
+  ]
+}

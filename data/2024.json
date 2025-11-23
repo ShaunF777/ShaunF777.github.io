@@ -1,0 +1,23 @@
+{
+  "year": "2024",
+  "company": "Independent / Contract",
+  "responsibilities": [
+    "Consulted on modular vehicle retrofits and risk‑reduction design after transition from IFS",
+    "Produced concise technical handover packages to simplify client maintenance and spare‑parts ordering"
+  ],
+  "structural_design": [
+    "Advised on C of G and load path improvements for third‑party retrofit projects"
+  ],
+  "hydraulics_drive": [
+    "Recommended hydraulic simplifications for increased uptime and reduced electronic dependency"
+  ],
+  "automation_integration": [
+    "Provided control logic reviews and improved PLC/HMI fault handling strategies"
+  ],
+  "photos": [
+    "rs2024_1.jpg",
+    "st2024_1.jpg",
+    "hy2024_1.jpg",
+    "au2024_1.jpg"
+  ]
+}

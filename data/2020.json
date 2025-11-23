@@ -1,0 +1,24 @@
+{
+  "year": "2020",
+  "company": "IFS / Tankkraft",
+  "responsibilities": [
+    "Refined Tankkraft modular assembly process post‑galvanising using Huck lock‑bolting",
+    "Managed supply chain adjustments and revised procurement schedules during COVID disruptions",
+    "Optimised workshop layouts to reduce build time per unit"
+  ],
+  "structural_design": [
+    "Finalised modular tank section interfaces to improve galvanising throughput and assembly repeatability"
+  ],
+  "hydraulics_drive": [
+    "Standardised pressure‑compensated flow control and load‑sensing pump arrangements across new builds"
+  ],
+  "automation_integration": [
+    "Integrated IFM CANbus controllers into production vehicles for improved diagnostic telemetry"
+  ],
+  "photos": [
+    "rs2020_1.jpg",
+    "st2020_1.jpg",
+    "hy2020_1.jpg",
+    "au2020_1.jpg"
+  ]
+}
