@@ -2,9 +2,10 @@
   "year": "2019",
   "company": "IFS",
   "responsibilities": [
-   
+    "Managed a cross-functional team including 2x draftsmen, 7x fitters, 3x welders and 2x procurement"
   ],
-  "structural_design": [
+  "structural_design": ["Redefine high capacity 6x6 diesel bowser body to assemble by Huck lock-bolt (ALS)",
+    "Simplify bottom bolt-on compartments assembly and doors to reduce build time by 30% "
     
   ],
   "hydraulics_drive": [
@@ -13,7 +14,7 @@
     "Variable displacement pump with load‑sensing control fully integrated"
   ],
   "automation_integration": [
-   
+    "Service Trucks: Retrofit Luimier 7inch HMIs onto old trucks, removing old allen bradley systems"
   ],
   "photos": [
     "rs2019_1.jpg",

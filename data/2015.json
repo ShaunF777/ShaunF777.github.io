@@ -2,19 +2,17 @@
   "year": "2015",
   "company": "IFS",
   "responsibilities": [
-    "Tankkraft brand was registered for all new truck, trailer, skid and service equipment",
-    "Perform client needs analysys, scope of work & budget planning, for new truck builds",
-    "Managed a cross-functional team including 1x draftsmen, 5x fitters, 2x welders and 1x procurement"
+    "Coordinated field upgrades to standardise Lumier 7inch HMI across all drill highwall systems",
+    "Establish standard for centralised service enclosures, to have a preset design for each mechine",
+    "Led workshop upgrades and rebuilds on trucks, replacing old PLCs with new 7inch HMI and Canbus controllers"
   ],
   "structural_design": [
-    "Designed and built my very first service truck called 'VOLT' in SolidWorks",
-    "Worked with client engineers to build the first 6Ton sevice truck for coal processing plants",
-    "Began center of gravity calculations in SolidWorks for all trucks; worked with client engineers to mitigate overload risk",
-    "Further improved design for lateral beams on service truck tank-assemblies"
+    "Design and build a range of heavy duty oil service trolleys with modular wheel and castor assemblies"
   ],
-  "hydraulics_drive": [" "],
-  "automation_integration": ["Integrate first 7inch Lumier touch HMI for highwall protection on drills",
-    "Lumier touch interfaces replaced the control interface I developed in 2009, significantly improving downtime & faultfinding"
+  "hydraulics_drive": [],
+  "automation_integration": [
+    "Implement and commission 220VAC driven skid with 4x oil's and 1x grease pump",
+    "DOL switchgear included a pressure switch and time-out for each pump"
   ],
   "photos": [
     "rs2015_1.jpg",

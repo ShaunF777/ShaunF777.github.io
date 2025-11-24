@@ -16,7 +16,7 @@
     "Implement first Pressure‑compensated flow control piston pump + custom load‑sensing valve arrangment on service trucks",
     "Load sensing hydraulics allowed simultanious operation of the screw compressor and hp washers"
   ],
-  "automation_integration": ["Integrate first IFM CR2050/51/52 CANbus controllers for Service truck control and automation",
+  "automation_integration": ["Service Trucks and Bowsers: Integrate first IFM CR2050/51/52 CANbus controllers for control and automation",
     "Lumier touch interfaces replaced the control interface I developed in 2009, significantly improving downtime & faultfinding"
   ],
   "photos": [

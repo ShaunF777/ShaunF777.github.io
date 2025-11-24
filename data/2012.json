@@ -2,13 +2,15 @@
   "year": "2012",
   "company": "IFS",
   "responsibilities": [
-    "Senior field service technician on lubrication and drill protection systems",
+    "Senior field service technician on lubrication and drill protection systems & OEM installations",
     "Advised sales and workshop on project planning and PLC automation integration"
   ],
   "structural_design": [
     
   ],
-  "hydraulics_drive": ["Install & commission first load sensing variable displacement hydraulic systems for water bowsers"],
+  "hydraulics_drive": [
+    "Install & commission first load sensing variable displacement hydraulic systems for water bowsers"
+  ],
   "automation_integration": [
     "Integrated first Murphy touch screen CANbus controllers for service trucks, water bowsers & diesel bowsers",
     "Murphy touch screens enhanced control of water canons on bowsers",

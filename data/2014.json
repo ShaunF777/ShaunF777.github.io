@@ -11,10 +11,10 @@
     "Began center of gravity calculations in SolidWorks for all trucks; worked with client engineers to mitigate overload risk",
     "Further improved design for lateral beams on service truck tank-assemblies"
   ],
-  "hydraulics_drive": ["Design and implemented our own design for hydraulic driven Evo2 screw compressors resulting in 30% cost reduction"
+  "hydraulics_drive": ["Design and implemented in-house assembles hydraulic driven Evo2 screw compressors resulting in 30% cost reduction"
   ],
-  "automation_integration": ["Integrate first 7inch Lumier touch HMI for highwall protection on drills",
-    "Lumier touch interfaces replaced the control interface I developed in 2009, significantly improving downtime & faultfinding"
+  "automation_integration": ["Drill highwall protection: Integrate 7inch touch HMI to replace the control interface I developed in 2009 ",
+    "Drill highwall protection: The Lumier touch HMI data logging significantly improved route cause analysis, downtime & faultfinding"
   ],
   "photos": [
     "rs2014_1.jpg",

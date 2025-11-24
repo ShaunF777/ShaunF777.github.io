@@ -6,9 +6,14 @@
     "Led retrofit upgrades of highwall protection systems to IFM EcoMat controllers",
     "Coordinated production upgrades to standardise Lumier highwall systems across platforms"
   ],
-  "structural_design": [],
+  "structural_design": ["Deliver high capacity 6x6 diesel bowser body with low roll over probability(ALS)",
+    "Designed first 5 seater Crew Cab with emergency escape and additional aircon",
+    "Further refine bottom bolt-on compartments to increase rough terrain mobility"
+  ],
   "hydraulics_drive": [
-    "Supported integration changes required by controller upgrades (sensor mounts, cabling routing)"
+    "Building direct drive fuel bowsers without the need for hydraulics reduced cost by 20%",
+    "Developed a way to drive fuel pumps directly from within a service compartment, easing maintenance and cleanliness by 70%",
+    "High flow & pressure control was done by means of a 3 way diverter valve, dumping excess fuel back to tank"  
   ],
   "automation_integration": [
     "Drill highwall protection: Integrate & Commission IFM EcoMat controllers; enabled preshift testing and improved reliability",

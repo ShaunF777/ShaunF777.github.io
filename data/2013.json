@@ -11,8 +11,12 @@
     "Further developed modular bolt‑on enclosed pump compartments for service trucks and bowsers",
     "Led design and manufacturing of service truck structures and load-bearing assemblies"
   ],
-  "hydraulics_drive": ["Create speed calculators for sprocket sizing per hydraulic motor CC & Kw"],
-  "automation_integration": ["The Lumier brand was created for all Automation & control gear on trucks and drills"],
+  "hydraulics_drive": [
+    "Create speed calculators for sprocket sizing per hydraulic motor CC & Kw"
+  ],
+  "automation_integration": ["The Lumier brand was created for all Automation & control gear on trucks and drills",
+    "Designed and installed retrofit Lumier control system for Mozambican Vale Mine Service Truck" 
+  ],
   "photos": [
     "rs2013_1.jpg",
     "st2013_1.jpg",

@@ -7,8 +7,11 @@
     "General workshop assistant and cleaner"
   ],
   "structural_design": [],
-  "hydraulics_drive": ["Basic Hydraulic & pneumatic piping and routing"],
-  "automation_integration": ["Assisted with installations of truck lighting and basic 24V switchgear"
+  "hydraulics_drive": [
+    "Basic Hydraulic & pneumatic piping and routing"
+  ],
+  "automation_integration": [
+    "Assisted with installations of truck lighting and basic 24V switchgear"
   ],
   "photos": [
     "rs2006_1.jpg",

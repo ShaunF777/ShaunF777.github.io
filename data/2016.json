@@ -8,13 +8,13 @@
     "Implemented proportional swashplate drive control tied to real‑time flow and pressure feedback from driven fluids"
   ],
   "structural_design": [
-    "Designed compact skid layouts that met bunding and service access requirements"
+    "Service Skids: Designed compact skid layouts that met bunding and service access requirements"
   ],
   "hydraulics_drive": [
-    "Developed variable‑speed diesel transfer units with load‑sensing hydraulic drive and proportional control"
+    "Bowsers: Developed variable‑speed diesel transfer units with load‑sensing hydraulic drive and proportional control"
   ],
   "automation_integration": [
-    "Integrated flow and pressure measurement into hydraulic speed control loops for precise dosing"
+    "Bowsers: Integrated flow and pressure measurement into hydraulic speed control loops for precise dosing"
   ],
   "photos": [
     "rs2016_1.jpg",
