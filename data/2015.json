@@ -11,8 +11,9 @@
   ],
   "hydraulics_drive": [],
   "automation_integration": [
-    "Implement and commission 220VAC driven skid with 4x oil's and 1x grease pump",
-    "DOL switchgear included a pressure switch and time-out for each pump"
+    "Drill highwall protection: Developed and installed 1st quad system on PV275 using 4 laser sensors",
+    "Trucks: Implement and commission 220VAC driven skid with 4x oil's and 1x grease pump",
+    "Trucks: DOL switchgear included a pressure switch and time-out for each pump"
   ],
   "photos": [
     "rs2015_1.jpg",
