@@ -16,6 +16,7 @@
     "High flow & pressure control was done by means of a 3 way diverter valve, dumping excess fuel back to tank"  
   ],
   "automation_integration": [
+    "Create a new control interface for Nordberg LT 1213 Mobile crusher, to control proportional valves and engine speed",
     "Drill highwall protection: Integrate & Commission IFM EcoMat controllers; enabled preshift testing and improved reliability",
     "Drill highwall protection: Expanded sensor suite with two additional lasers increasing drill safety performance"
   ],

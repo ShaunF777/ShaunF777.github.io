@@ -4,14 +4,20 @@
   "responsibilities": [
     "Qualified as a mechanical fitter and led fabrication workstreams",
     "Designed and delivered the first bunded oil service skid 'Pitbull' (7 products + Atlas Copco XAS97)",
+    "Design and implement precision dasage control for Khutala ventilation fan bearings",
+    "Implement first bydirectional capability for all product pumps on specialised unit built for shovels",
     "Engineered speed‑controlled 600 L/min diesel transfer units using a hydraulic 2‑stage centrifugal pump",
     "Implemented proportional swashplate drive control tied to real‑time flow and pressure feedback from driven fluids"
   ],
   "structural_design": [
+    "Measure and design 3D Drill model of PV275, to demonstrate mapped out measuring zones and angles",
+    "Design the first prototype kidny filtration trolly, to remove dirt and moisture",
     "Service Skids: Designed compact skid layouts that met bunding and service access requirements"
   ],
   "hydraulics_drive": [
-    "Bowsers: Developed variable‑speed diesel transfer units with load‑sensing hydraulic drive and proportional control"
+    "Design first mechanical system for high-level refill shut-off valves on tanks for mechanical only trucks",
+    "Bowsers: Developed variable‑speed diesel transfer units with load‑sensing hydraulic drive and proportional control",
+    "Implemented proportional swashplate drive control tied to real‑time flow and pressure feedback from driven fluids"
   ],
   "automation_integration": [
     "Bowsers: Integrated flow and pressure measurement into hydraulic speed control loops for precise dosing"
