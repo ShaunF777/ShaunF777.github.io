@@ -58,7 +58,29 @@ function renderPhotos(photos){
     gallery.innerHTML = '<p class="muted">No images for this year.</p>';
     return;
   }
-  gallery.innerHTML = photos.map(p => `<img loading="lazy" src="images/${p}" alt="">`).join('');
+  //gallery.innerHTML = photos.map(p => `<img loading="lazy" src="images/${p}" alt="">`).join('');
+  // show first 8 with a "show more" if many
+  const limit = 6;
+  const initial = photos.slice(0, limit);
+  gallery.innerHTML = initial.map(p => {
+    const file = typeof p === 'string' ? p : p.file;
+    const alt = (typeof p === 'object' && p.alt) ? p.alt : '';
+    return `<img loading="lazy" src="images/${file}" alt="${alt}" onerror="this.src='images/placeholder.jpg'">`;
+  }).join('');
+
+  if(photos.length > limit){
+    const moreBtn = document.createElement('button');
+    moreBtn.textContent = `Show ${photos.length - limit} more`;
+    moreBtn.addEventListener('click', () => {
+      gallery.innerHTML = photos.map(p => {
+        const file = typeof p === 'string' ? p : p.file;
+        const alt = (typeof p === 'object' && p.alt) ? p.alt : '';
+        return `<img loading="lazy" src="images/${file}" alt="${alt}" onerror="this.src='images/placeholder.jpg'">`;
+      }).join('');
+      moreBtn.remove();
+    });
+    gallery.parentNode.appendChild(moreBtn);
+  }
 }
 
 // print button

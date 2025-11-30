@@ -1,12 +1,13 @@
 {
   "year": "2006",
-  "company": "Industrial Fluid Solutions / Tactical Software Solutions",
+  "company": "Industrial Fluid Solutions",
   "responsibilities": [
-    "IT & network technician supporting office infrastructure",
-    "Storeman – stock keeping, driving delivery vehicle for weekly collections and deliveries",
-    "General workshop assistant and cleaner"
+    "Maintaining desktops, network infrastructure, server & backups",
+    "Inventory management & creating catagorized stock sheets & part numbers", 
+    "Doing collections and deliveries using an ldv and trailer",
+    "Doing a bit of everything in the workshop, on whatever i could assist"
   ],
-  "structural_design": [],
+  "structural_design": ["Basic tool handeling and metalworking skills learned"],
   "hydraulics_drive": [
     "Basic Hydraulic & pneumatic piping and routing"
   ],
