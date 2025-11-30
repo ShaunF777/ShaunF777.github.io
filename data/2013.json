@@ -1,26 +1,50 @@
 {
   "year": "2013",
-  "company": "IFS",
-  "responsibilities": [
-    "Took over engineering responsibilities for service truck and workshop equipment design",
-    "Completed SolidWorks training for sheet-metal, parts and assemblies",
-    "Managed a cross-functional team including 2x draftsmen, 10x fitters, 5x welders and 2x procurement",
-    "Performed supplier sourcing, client interactions and project planning using Excel schedules"
+  "company": "Industrial Fluid Solutions (IFS)",
+  "role": "Technical Manager – Workshop & Engineering",
+  "leadership_and_planning": [
+    "Appointed Technical Manager: assumed full engineering responsibility for all service-truck and bowser projects",
+    "Led a 19-person cross-functional team (2 draftsmen, 10 fitters, 5 welders, 2 procurement officers)",
+    "Owned project planning, supplier sourcing, client liaison and Excel-based scheduling from kick-off to final sign-off",
+    "Conducted regular progress meetings and drove on-time delivery of five high-value vehicles"
+  ],
+  "infrastructure_and_installation": [
+    "Delivered five 6×6 Mercedes-Benz Actros-based units: 2× 13 000 L diesel bowsers, 2× 17 000 L multi-compartment service trucks, 1× 13 000 L water bowser",
+    "Engineered and manufactured 60 % stronger load-bearing tank support structures (validated by FEA and real-world testing)",
+    "Introduced fully modular bolt-on enclosed pump compartments – now standard across the IFS fleet"
   ],
   "structural_design": [
-    "Further developed modular bolt‑on enclosed pump compartments for service trucks and bowsers",
-    "Led design and manufacturing of service truck structures and load-bearing assemblies"
+    "Completed intensive SolidWorks training (sheet-metal, welded structures, assemblies)",
+    "Redesigned chassis-to-tank mounting systems for higher dynamic loads and longer fatigue life",
+    "Created complete manufacturing drawing packages for all structural components"
   ],
   "hydraulics_drive": [
-    "Create speed calculators for sprocket sizing per hydraulic motor CC & Kw"
+    "Developed in-house Excel hydraulic motor/sprocket sizing calculator (motor cc, kW, flow, ratio → chain speed)",
+    "Specified and integrated hydraulic drive packages for reel, pump and compressor systems across all five vehicles"
   ],
-  "automation_integration": ["The Lumier brand was created for all Automation & control gear on trucks and drills",
-    "Designed and installed retrofit Lumier control system for Mozambican Vale Mine Service Truck" 
+  "automation_and_control": [
+    "Launched the Lumier brand for all IFS automation & control equipment",
+    "Designed, built and retrofitted the first Lumier PLC-based control system on a 17 000 L service truck for Vale Mozambique",
+    "Integrated proportional valve control, load-sense hydraulics and HMI interfaces"
+  ],
+  "sales_and_customer_solutions": [
+    "Worked directly with mining clients to translate operational requirements into technical specifications",
+    "Prepared detailed technical proposals and costing schedules that secured the 2013 orders"
+  ],
+  "technical_training": [
+    "Trained workshop teams on new modular designs, welding sequences and quality standards",
+    "Created assembly checklists and commissioning procedures still in use today"
+  ],
+  "impact_and_results": [
+    "Successfully delivered R 20 m+ worth of specialised vehicles on time and within budget",
+    "Achieved 60 % improvement in tank structural integrity (zero fatigue failures in service)",
+    "Established Lumier as the recognised automation brand for IFS in the coal and hard-rock mining sector"
   ],
   "photos": [
     "rs2013_1.jpg",
-    "st2013_1.jpg",
-    "hy2013_1.jpg",
-    "au2013_1.jpg"
+    "st2013_1.jpg    // 13 000 L diesel bowser side view",
+    "st2013_2.jpg    // 17 000 L service truck (new modular pump bay)",
+    "hy2013_1.jpg    // hydraulic drive / reel installation",
+    "au2013_1.jpg    // Lumier control panel in cab"
   ]
 }
