@@ -1,16 +1,38 @@
 {
   "year": "2005",
-  "company": "Tactical Software Systems Managed services TSSMS",
-  "responsibilities": [
-    "Site manager for IT upgrade projects at the Department of Justice",
-    "Installed and maintained enterprise wired networks for the province of Mpumalanga",
-    "Including: Db boards, server cabinets, switches, routers, firewalls, printers, local servers and upgrade Pc's",
-    "Managed & deployed OS migrations and software upgrades for Servers and desktops (Microsoft)",
+  "company": "Tactical Software Systems Managed Services (TSSMS)",
+  "role": "Site Manager / Team Leader – Department of Justice IT Upgrade Projects (Mpumalanga)",
+  "leadership_and_planning": [
+    "Recruited, trained, transported and housed a permanent crew of 2–3 junior technicians",
+    "Planned multi-day deployments in remote towns with overnight stays, including client handover meetings",
+    "Escalated blockers to Regional Manager and drove issues to resolution"
+  ],
+  "infrastructure_and_installation": [
+    "Designed and installed steel power-skirting and dual-compartment trunking for combined 220 V + data",
+    "Commissioned full server cabinets: dedicated PDUs, rack servers, managed switches and labelled patch panels",
+    "Installed and terminated Cat5e structured cabling from server room to every desktop network point"
+  ],
+  "systems_and_networking": [
+    "Deployed and commissioned 80+ new PCs per courthouse site",
+    "Performed Microsoft OS migrations and domain joins on servers and workstations",
+    "Configured switches, VLANs and basic firewall rules for court LANs"
+  ],
+  "sales_and_customer_solutions": [
+    "Conducted needs assessments with court managers to customize IT upgrades",
+    "Advised on hardware specs and obtained buy-in for solutions during client meetings"
+  ],
+  "automation_and_control": [
+    "Built standardised imaging and unattended deployment processes – reduced desktop provisioning time by ~60 %",
+    "Created batch scripts and Group Policy objects for rapid software and security updates"
+  ],
+  "technical_training": [
+    "Trained team members on installation standards and troubleshooting, ensuring consistent quality across sites"
+  ],
+  "impact_and_results": [
+    "Delivered 100 % network uptime immediately after go-live on every site",
+    "Obtained formal client sign-off from Department of Justice on all completed courthouses",
     "TSSMS was acquired by EOH in 2011"
   ],
-  "structural_design": [],
-  "hydraulics_drive": [],
-  "automation_integration": [],
   "photos": [
     "rs2005_1.jpg"
   ]

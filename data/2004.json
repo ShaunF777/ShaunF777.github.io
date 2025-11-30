@@ -1,17 +1,35 @@
 {
   "year": "2004",
-  "company": "Matrix Warehouse",
-  "responsibilities": [
-    "Completed intensive 3-month on-the-job training at Alberton head-office, mastering PC assembly and customer support workflows",
-    "Provided front-line technical sales and support in a busy retail environment, consistently ranked in top 3 for customer satisfaction",
-    "Built, configured and stress-tested custom desktop PCs and laptops from components, achieving <1% return rate",
-    "Rapidly built customer trust through clear explanations and honest recommendations, frequently upsold warranties and premium components",
-    "Diagnosed and resolved complex hardware/software issues on-site, reducing average ticket time by 40% compared to team average"
+  "company": "Matrix Warehouse (South Africa)",
+  "role": "Senior PC Technician & Customer-Facing Lead",
+  "leadership_and_planning": [
+    "Mentored junior technicians on build quality and diagnostic procedures during intensive 3-month training at head office",
+    "Acted as primary point of contact for high-value and difficult customers, conducting needs assessments and product recommendations"
   ],
-  "structural_design": [],
-  "hydraulics_drive": [],
-  "automation_integration": [],
+  "infrastructure_and_installation": [
+    "Personally assembled, cable-managed and stress-tested over 400 custom gaming and office desktops",
+    "Performed component-level repairs on laptops and desktops (motherboards, PSU, RAM, HDD)"
+  ],
+  "systems_and_networking": [
+    "Configured Windows XP workstations, drivers, antivirus and small peer-to-peer networks",
+    "Diagnosed and resolved LAN connectivity, printer sharing and internet issues in-store"
+  ],
+  "sales_and_customer_solutions": [
+    "Built customer trust through honest advice, frequently upselling warranties and premium components",
+    "Excelled in sales consultations, matching products to needs and closing deals in a retail environment"
+  ],
+  "automation_and_control": [],
+  "technical_training": [
+    "Completed rigorous on-the-job training in hardware/software troubleshooting and customer support workflows"
+  ],
+  "impact_and_results": [
+    "Achieved the highest customer-satisfaction ratings in the branch",
+    "Zero warranty returns on systems I personally built and signed off"
+  ],
   "photos": [
-    "rs2004_1.jpg"
+    "rs2004_1.jpg",
+    "rs2004_2.jpg",
+    "rs2004_3.jpg",
+    "rs2004_4.jpg"
   ]
 }

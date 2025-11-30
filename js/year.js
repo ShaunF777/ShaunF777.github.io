@@ -2,12 +2,20 @@
 
 function qs(id){ return document.getElementById(id) }
 
+function humanizeKey(key) {
+  // Convert snake_case to Title Case with '&' for 'and'
+  return key.replace(/_/g, ' ')
+            .replace(/\b\w/g, c => c.toUpperCase())
+            .replace(/ And /g, ' & ');
+}
+
 async function loadYear(){
   const params = new URLSearchParams(location.search);
   const year = params.get('year');
   const pageTitle = qs('page-title');
   const meta = qs('meta');
   const noData = qs('no-data');
+  const categoriesContainer = qs('categories-container');
 
   if(!year){
     pageTitle.textContent = 'Year not specified';
@@ -22,34 +30,88 @@ async function loadYear(){
     if(!res.ok) throw new Error('Year file not found');
     const data = await res.json();
 
-    // meta
-    meta.innerHTML = `<p class="muted">${data.company || ''}</p>`;
+    // meta with role (if present) and company
+    let metaHtml = '';
+    if (data.role) metaHtml += `<h2>${data.role}</h2>`;
+    if (data.company) metaHtml += `<p class="muted">${data.company}</p>`;
+    meta.innerHTML = metaHtml;
 
-    renderList('responsibilities', data.responsibilities);
-    renderList('structural', data.structural_design);
-    renderList('hydraulics', data.hydraulics_drive);
-    renderList('automation', data.automation_integration);
+    // Dynamic categories
+    let hasCategories = false;
+    Object.keys(data).forEach(key => {
+      if (Array.isArray(data[key]) && key !== 'photos' && key !== 'structural_design' && key !== 'hydraulics_drive' && key !== 'automation_integration') { // Exclude photos & legacy keys if needed
+        hasCategories = true;
+        const section = document.createElement('article');
+        section.id = key;
+        section.setAttribute('aria-labelledby', `${key}-title`);
+        const h2 = document.createElement('h2');
+        h2.id = `${key}-title`;
+        h2.textContent = humanizeKey(key);
+        section.appendChild(h2);
+        renderList(section, data[key]);
+        categoriesContainer.appendChild(section);
+      }
+    });
+
+    // Legacy support for old categories (remove once all JSONs updated)
+    if (data.responsibilities) {
+      hasCategories = true;
+      const section = createCategorySection('responsibilities', 'Responsibilities', data.responsibilities);
+      categoriesContainer.appendChild(section);
+    }
+    if (data.structural_design) {
+      hasCategories = true;
+      const section = createCategorySection('structural', 'Structural Design', data.structural_design);
+      categoriesContainer.appendChild(section);
+    }
+    if (data.hydraulics_drive) {
+      hasCategories = true;
+      const section = createCategorySection('hydraulics', 'Hydraulics & Drive Systems', data.hydraulics_drive);
+      categoriesContainer.appendChild(section);
+    }
+    if (data.automation_integration) {
+      hasCategories = true;
+      const section = createCategorySection('automation', 'Automation Systems Integration', data.automation_integration);
+      categoriesContainer.appendChild(section);
+    }
+
     renderPhotos(data.photos || []);
 
-    noData.textContent = '';
+    if (!hasCategories) {
+      noData.textContent = 'No detailed achievements recorded for this year.';
+    } else {
+      noData.textContent = '';
+    }
+
   }catch(err){
-    qs('responsibilities').innerHTML = '';
-    qs('structural').innerHTML = '';
-    qs('hydraulics').innerHTML = '';
-    qs('automation').innerHTML = '';
+    meta.innerHTML = '';
+    categoriesContainer.innerHTML = '';
     qs('gallery').innerHTML = '';
     noData.textContent = 'No records for this year.';
     console.warn(err);
   }
 }
 
-function renderList(id, items){
-  const el = qs(id);
+function createCategorySection(id, title, items) {
+  const section = document.createElement('article');
+  section.id = id;
+  section.setAttribute('aria-labelledby', `${id}-title`);
+  const h2 = document.createElement('h2');
+  h2.id = `${id}-title`;
+  h2.textContent = title;
+  section.appendChild(h2);
+  renderList(section, items);
+  return section;
+}
+
+function renderList(el, items){
   if(!items || items.length === 0){
-    el.innerHTML = '<p class="muted">No records for this year.</p>';
+    el.innerHTML += '<p class="muted">No records in this category.</p>';
     return;
   }
-  el.innerHTML = `<ul>${items.map(i => `<li>${i}</li>`).join('')}</ul>`;
+  const ul = document.createElement('ul');
+  ul.innerHTML = items.map(i => `<li>${i}</li>`).join('');
+  el.appendChild(ul);
 }
 
 function renderPhotos(photos){
@@ -58,8 +120,7 @@ function renderPhotos(photos){
     gallery.innerHTML = '<p class="muted">No images for this year.</p>';
     return;
   }
-  //gallery.innerHTML = photos.map(p => `<img loading="lazy" src="images/${p}" alt="">`).join('');
-  // show first 8 with a "show more" if many
+  // show first 6 with a "show more" if many
   const limit = 6;
   const initial = photos.slice(0, limit);
   gallery.innerHTML = initial.map(p => {
@@ -89,4 +150,3 @@ document.addEventListener('click', (e) => {
 });
 
 loadYear();
-
