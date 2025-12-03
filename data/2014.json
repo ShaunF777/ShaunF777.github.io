@@ -3,13 +3,16 @@
   "company": "IFS",
   "responsibilities": [
     "Perform client needs analysys, scope of work & budget planning, for new truck builds",
-    "Managed a cross-functional team including 2x draftsmen, 10x fitters, 5x welders and 2x procurement"
+    "Managed a cross-functional team including 2x draftsmen, 10x fitters, 5x welders and 2x procurement",
+    "Delivered multiple service trolleys, Oil service bays, grease tanks, Oil service unit boxes"
   ],
   "structural_design": [
-    "Designed and built my very first service truck called 'VOLT' in SolidWorks",
-    "Worked with client engineers to build the first 6Ton sevice truck for coal processing plants",
-    "Began center of gravity calculations in SolidWorks for all trucks; worked with client engineers to mitigate overload risk",
-    "Further improved design for lateral beams on service truck tank-assemblies"
+    "I personaly designed and built my very first service truck called 'VOLT' in SolidWorks",
+    "Worked with Glencore engineers to build this 'Volt service truck' first 6Ton sevice truck for coal processing plants",
+    "Began center of gravity calculations in SolidWorks for all trucks; worked with BHP Billiton engineers to mitigate overload risk",
+    "Further improved design for lateral beams on service truck tank-assemblies",
+    "Design and manufacture specialised grease tanks for Epiroc (Atlas-Copco) PV275 drill, main grease and thread grease system, each with integrated overflow tubes",
+    "Developed the first line of heavy duty oil catchment trolleys to be used in Glencor and BHP billiton sites, standard sizes were 150L, 300L, 400L and 600L"
   ],
   "hydraulics_drive": ["Design and implemented in-house assembles hydraulic driven Evo2 screw compressors resulting in 30% cost reduction"
   ],

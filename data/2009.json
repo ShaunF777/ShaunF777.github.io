@@ -4,16 +4,20 @@
   "responsibilities": [
     "Designed and documented hydraulic and pneumatic line schematics for service vehicles",
     "All service truck electrical installations of control & instrumentation systems",
-    "Trained semi-skilled personnel on control & instrumentation systems",
+    "Trained dedicated semi-skilled personnel on control & instrumentation systems",
     "Field service and standby callout technician for fuel, oil and automated grease systems"
   ],
   "structural_design": [],
   "hydraulics_drive": [
-    "Prepared technical line drawings for service truck hydraulics, pneumatics and instrumentation wiring"
+    
+    "Used technical line drawings for service truck hydraulics & pneumatics"
   ],
   "automation_integration": [
-    "Integrated and commissioned first Allen-Bradley PLC controller for service truck hydraulic & tank level control",
-    "Developed first Highwall protection control module for drills",
+    "Concidered using Allen-Bradley PLC control logic for service truck hydraulic safeguards and tank level overfill prevention",
+    "Prepared technical line drawings for AmberJack Service truck control panel",
+    "Most significant Development: First Highwall protection control module for safeguarding large blashole drills",
+    "Highwall system had 2 laser sensors, that would measure ground distance and sound an alarm inside the cab as soon as unsafe conditions were found"
+    "Installed, tested and commissioned highwall control units onto 9 BHP billiton PV275 drills"
     "Installed and configured all control and instrumentation on trucks and drill highwall systems"
   ],
   "photos": [
@@ -22,3 +26,10 @@
     "au2009_1.jpg"
   ]
 }
+"I was given dedicated semi-skilled personnel, to train up for installing and supporting control & 
+instrumentation systems, so that they could go on with work while I was in the field most days",
+"In 2009 we completed another advanced Komatsu ADT service truck for anglo coal, where i only focussed 
+on the 24vDC electrical system.  
+"Draadkar" and "Vlakvark" - 6x4 servide trucks for Megacube Contract miners,with compressors, hp washers but only basic dispense telemetry. all valves were hand lever.
+"Pitbull" - 4x4 service truck rebuild for BHP Billiton, witch had a xas97 Atlas Compco compressor with its own engine" 
+"Springbok" another 6x4 for U&M Lumwana Zambia, with hydraulic driven screw compressor and hp washer.

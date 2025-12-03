@@ -1,22 +1,41 @@
 {
   "year": "2006",
-  "company": "Industrial Fluid Solutions",
-  "responsibilities": [
-    "Maintaining desktops, network infrastructure, server & backups",
-    "Inventory management & creating catagorized stock sheets & part numbers", 
-    "Doing collections and deliveries using an ldv and trailer",
-    "Doing a bit of everything in the workshop, on whatever i could assist"
+  "company": "Industrial Fluid Solutions (IFS)",
+  "role": "Workshop Technician & IT/Signwriter – Final Year of Office Duties",
+  "leadership_and_planning": [
+    "Managed full stockroom reorganisation – created IFS’s first categorised part-number database",
+    "Coordinated daily collections/deliveries with LDV + trailer"
+    
   ],
-  "structural_design": ["Basic tool handeling and metalworking skills learned"],
+  "infrastructure_and_installation": [
+    "Supported 1–2 service truck projects (new or major refurbishments)",
+    "Performed grinding, cleaning and assembly of welded structural components"
+  ],
+  "systems_and_networking": [
+    "Single-handedly maintained all office desktops, servers, backups and LAN",
+    "Learned CorelDRAW and operated Roland vinyl cutter for multi-layer vehicle branding"
+  ],
   "hydraulics_drive": [
-    "Basic Hydraulic & pneumatic piping and routing"
+    "First hands-on hydraulic & pneumatic hose routing and fitting",
+    "Assisted with pump, valve and hosereel installations",
+    "Performed scheduled grease system maintenance at Highveld Steel Struction-mill"
   ],
-  "automation_integration": [
-    "Assisted with installations of truck lighting and basic 24V switchgear"
+  "automation_and_control": [
+    "Installed 24 V DC lighting circuits, wiring harnesses, solenoids, fuses, relays and mine-spec battery isolators"
+  ],
+  "technical_training": [
+    "Rapid on-the-job training in metalworking, hydraulics, pneumatics and vehicle electrical systems"
+  ],
+  "impact_and_results": [
+    "Became the most versatile team member – covered IT, signwriting, logistics and workshop simultaneously",
+    "Started the vinyl branding process used on every IFS truck to up to 2008",
+    "Set the foundation for permanent move to full-time field service in 2007"
   ],
   "photos": [
     "rs2006_1.jpg",
-    "au2006_1.jpg"
+    "rs2006_2.jpg",
+    "au2006_1.jpg",
+    "au2006_2.jpg"
   ]
 }
 

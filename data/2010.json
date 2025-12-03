@@ -9,11 +9,13 @@
   ],
   "structural_design": [],
   "hydraulics_drive": [
+    "Automate first hydraulically actuated ROPS and step ladder for service trucks with electro-hydraulic power-pack",
     "Installed & commissioned complex drive and lubrication circuits on OEM installations"
   ],
   "automation_integration": [
+    "Integrated and commissioned first Allen-Bradley PLC for Springbok service truck to control and safeguard the compressor, hydraulics and oil tank levels",
     "Further develop Allen-Bradley PLC control logic for service truck hydraulic safeguards",
-    "AB Micrologix PLCs and Powerview touch interfaces reduced cabinet wiring and switchgear by 30%",
+    "Allen Bradley Micrologix PLCs and Powerview touch interfaces reduced cabinet wiring and switchgear by 30%",
     "Authored technical service manuals including operator training, drawings and critical parts lists"
   ],
   "photos": [
@@ -22,3 +24,7 @@
     "au2010_1.jpg"
   ]
 }
+"Springbok" - 6x4 service truck, for Caterpillar Moatize Mozambique, with 4 hydraulic functions , adding a 3000L diesel tank, pump and hosereel as well
+as a crane at the back of the truck, the first truck to have service hatches on the side of the truck. Also the first truck to control the hydraulics from its touch hmi.
+Started with "Amber-Jack" - 6x6 Service truck for Glencore/Billiton featuring: 3 row tank design having 15 tanks in total able to cary 9000ltrs for fluids,
+ with hydraulically actuated ROPS and Stepladder, this truck was only delivered in March 2010"

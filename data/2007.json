@@ -1,23 +1,38 @@
 {
   "year": "2007",
-  "company": "IFS",
-  "responsibilities": [
-    "Signwriting for company vehicles using CorelDraw",
-    "Office & workshop IT & network support",
-    "Field service assistant – installed and maintained fuel, oil and automated grease systems",
-    "Workshop assistant – basic hydraulics, pneumatics and electrical wiring on trucks",
-    "Stand-by Weekends and call-outs for breakdowns"
+  "company": "Industrial Fluid Solutions (IFS)",
+  "role": "Field & Workshop Technician – Zambia Fleet Builds",
+  "leadership_and_planning": [
+    "Completed Success Institute condensed MBA (sales, marketing, motivation & excellence)",
+    "Continued signwriting and IT support as needed",
+    "Initiate using CoralDRAW design for laser ingraved dashboard tags and electric panels on trucks",
+    "Trained incoming marketing/IT personnel (handover completed early 2008)"
   ],
-  "structural_design": [],
+  "infrastructure_and_installation": [
+    "Built three export service trucks for Zambia copperbelt mines:",
+    "• “Zambees” – 6×4 multi-load oil bowser / mobile workshop for Hitachi at KCM",
+    "• “Zamkat” – 4×4 service truck for Caterpillar Chingola KCM",
+    "• “Zambok” – service truck with XAS97 Compressor for U&M (Brazilian contractor) at Lumwana",
+    "Performed two major service vehicle rebuilds/upgrades"
+  ],
   "hydraulics_drive": [
-    "Performed hands-on installations of hydraulics and pneumatics on service trucks"
+    "Installed oil & coolant pumps, suction piping, isolation valves, dispense hosereels and nozzles",
+    "Continued grease system installations & maintenance at variouse sites like Highveld Steel and Vanadium"
   ],
-  "automation_integration": [
-    "Installations of truck lighting and basic 24V switchgear"
+  "automation_and_control": [
+    "Primary dc-electrician: built complete 24 V harnesses, body solenoids, fuse/relay panels and mine-spec battery isolators"
+  ],
+  "technical_training": [
+    "Deepened practical skills in structural assembly, hydraulics and dc vehicle electrical systems"
+  ],
+  "impact_and_results": [
+    "All 3 vehicles delivered on time and commissioned in Zambia without faults",
+    "Proved ability to handle international projects from fabrication to final handover"
   ],
   "photos": [
     "rs2007_1.jpg",
     "hy2007_1.jpg",
-    "au2007_1.jpg"
+    "au2007_1.jpg",
+    "au2007_2.jpg"
   ]
 }

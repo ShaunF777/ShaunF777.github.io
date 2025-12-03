@@ -1,25 +1,46 @@
 {
   "year": "2008",
-  "company": "IFS",
-  "responsibilities": [
-    "Completed AutoCAD 2D/3D drafting and Lincoln Lubrication Systems training",
-    "Skilled field service technician for fuel, oil, automated grease and basic control systems",
-    "Skilled service truck workshop technician for hydraulics, pneumatics and electrical wiring",
-    "Handed over office IT and signwriting duties",
-    "Stand-by Weekends and call-outs for breakdowns"
+  "company": "Industrial Fluid Solutions (IFS)",
+  "role": "Senior Field Service Technician – First ADT Service Trucks + Opti-Control Pioneer",
+  "leadership_and_planning": [
+    "Completed formal handover of all office IT and signwriting duties (Jan–Feb 2008)",
+    "Completed AutoCAD 2D/3D and Lincoln Lubrication Systems certification",
+    "Started creating line schematics for service vehicle electrical panels",
+    "Trained semi-skilled personnel on control & instrumentation systems"
   ],
-  "structural_design": [],
-  "hydraulics_drive": [
-    "Automate first hydraulically actuated ROPS and step ladder for service trucks with electro-hydraulic power-pack",
-    "Installed and maintained lubrication and control instrumentation on field vehicles"
+  "infrastructure_and_installation": [
+    "Delivered three landmark service vehicles:",
+    "• Komatsu HM300 ADT service truck – Anglo Coal (fully bunded, ground-level service hatches)",
+    "• Caterpillar 740 ADT service truck – Glencore (same advanced bunding & spill containment)",
+    "• “Madala” 4×4 Hitachi-Glencore service truck – Parker PTO pump + 150 L side-mount hydraulic tank"
   ],
-  "automation_integration": [
-    "Develope, install and commission moderately advanced control and instrumentation on field installations & trucks",
-    "This included: Relay panels & PID controllers for tank levels"
+  "hydraulics_and_pump-drives": [
+    "Assist with the installation of 40 cfm screw compressors and CAT 1050 high-pressure washers (40 L/min @ 150 bar) across all three units",
+    "Installed piping for Parker PTO-driven gear pump systems with dedicated 150 L oil reservoir and return filter",
+    "Test & commission all hydraulic & pneumatic control valves for compressors, washers & pneumatic pump drives"
+  ],
+  "automation_and_control": [
+    "Succesfully integrated overtemperature safeguards for hydrualic drive systems, compressors and hp-washers across all three units",
+    "Designed and commissioned tank level safety systems: 4–20 mA sensors → dedicated PID controllers → automatic shut-off actuators",
+    "Mastered the Opti-Control IDE – programmed and commissioned the advanced dispense controller on all 2008-2018 trucks",
+    "Opti-Control features implemented:",
+    "• RFID tag reader for attendant identification",
+    "• 4 simultaneous dispense transactions",
+    "• Direct control of 4× pneumatic valves + 4× high-accuracy flowmeters",
+    "• Full transaction logging with RS232 download capability"
+  ],
+  "technical_training": [
+    "Certified AutoCAD 2D/3D user",
+    "Certified Lincoln Lubrication Systems technician",
+    "Self-taught Opti-Control programming – became the internal expert overnight"
+  ],
+  "impact_and_results": [
+    "Introduced succesful control philosophy for two new vehicle platforms (ADT + 4×4) and the Opti-Control system in a single year",
+    "Zero overfills or spills during commissioning thanks to PID level control",
+    "Opti-Control dispense controllers were the IFS standard and used on every advanced truck till 2018",
+    "Fully transitioned to 100 % technical field specialist role"
   ],
   "photos": [
-    "rs2008_1.jpg",
-    "hy2008_1.jpg",
-    "au2008_1.jpg"
+    "rs2008_1.jpg"
   ]
 }
